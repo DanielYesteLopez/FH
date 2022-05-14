@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+}
+.mainPage{
+  position: relative;
+}
+.headerPanelImage{
+  margin-right: 20%;
+  padding-top:5%;
+  width:20%;
+  height:auto;
+}
+
+.helpMessagesDiv{
+  padding-top:2%;
+}
+
+.whoAreWeText{
+  margin-left:70%;
+}
+
+.servicesText{
+  margin-left:2%;
+}
+
+

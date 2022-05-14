@@ -1,0 +1,23 @@
+.topHeaderImage{
+    width:20%;
+    align-self: center;
+    height:auto;
+  }
+.topHeader{
+    padding-top: 2%;
+}
+.needHelpText{
+    margin-top: 5%;
+    top:20%;
+    margin-left:80%;
+}
+
+.sportsImagesGrid{
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+sportsImagesGrid > div {
+    flex: 0 1 33%;
+}
